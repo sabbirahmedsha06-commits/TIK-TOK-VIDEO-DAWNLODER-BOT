@@ -1,0 +1,2 @@
+# No external dependencies — this bot uses ONLY the Python standard library.
+# Empty on purpose so `pip install -r requirements.txt` succeeds without any package.
